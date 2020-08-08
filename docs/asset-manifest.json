@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/joropi.github.io/react-gifexpertapp/static/css/main.0a5a2069.chunk.css",
-    "main.js": "/joropi.github.io/react-gifexpertapp/static/js/main.4c120dc4.chunk.js",
-    "main.js.map": "/joropi.github.io/react-gifexpertapp/static/js/main.4c120dc4.chunk.js.map",
-    "runtime-main.js": "/joropi.github.io/react-gifexpertapp/static/js/runtime-main.9d8f7a32.js",
-    "runtime-main.js.map": "/joropi.github.io/react-gifexpertapp/static/js/runtime-main.9d8f7a32.js.map",
-    "static/js/2.b04e268c.chunk.js": "/joropi.github.io/react-gifexpertapp/static/js/2.b04e268c.chunk.js",
-    "static/js/2.b04e268c.chunk.js.map": "/joropi.github.io/react-gifexpertapp/static/js/2.b04e268c.chunk.js.map",
-    "index.html": "/joropi.github.io/react-gifexpertapp/index.html",
-    "precache-manifest.3b8bb594cf0de0300ace28996e0135d9.js": "/joropi.github.io/react-gifexpertapp/precache-manifest.3b8bb594cf0de0300ace28996e0135d9.js",
-    "service-worker.js": "/joropi.github.io/react-gifexpertapp/service-worker.js",
-    "static/css/main.0a5a2069.chunk.css.map": "/joropi.github.io/react-gifexpertapp/static/css/main.0a5a2069.chunk.css.map",
-    "static/js/2.b04e268c.chunk.js.LICENSE.txt": "/joropi.github.io/react-gifexpertapp/static/js/2.b04e268c.chunk.js.LICENSE.txt"
+    "main.css": "/react-gifexpertapp/static/css/main.0a5a2069.chunk.css",
+    "main.js": "/react-gifexpertapp/static/js/main.4c120dc4.chunk.js",
+    "main.js.map": "/react-gifexpertapp/static/js/main.4c120dc4.chunk.js.map",
+    "runtime-main.js": "/react-gifexpertapp/static/js/runtime-main.ae19a04c.js",
+    "runtime-main.js.map": "/react-gifexpertapp/static/js/runtime-main.ae19a04c.js.map",
+    "static/js/2.b04e268c.chunk.js": "/react-gifexpertapp/static/js/2.b04e268c.chunk.js",
+    "static/js/2.b04e268c.chunk.js.map": "/react-gifexpertapp/static/js/2.b04e268c.chunk.js.map",
+    "index.html": "/react-gifexpertapp/index.html",
+    "precache-manifest.d29b9f6222060a492f63ad28447f995e.js": "/react-gifexpertapp/precache-manifest.d29b9f6222060a492f63ad28447f995e.js",
+    "service-worker.js": "/react-gifexpertapp/service-worker.js",
+    "static/css/main.0a5a2069.chunk.css.map": "/react-gifexpertapp/static/css/main.0a5a2069.chunk.css.map",
+    "static/js/2.b04e268c.chunk.js.LICENSE.txt": "/react-gifexpertapp/static/js/2.b04e268c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d8f7a32.js",
+    "static/js/runtime-main.ae19a04c.js",
     "static/js/2.b04e268c.chunk.js",
     "static/css/main.0a5a2069.chunk.css",
     "static/js/main.4c120dc4.chunk.js"
